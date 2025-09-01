@@ -1,4 +1,0 @@
-torch
-transformers
-textblob
-altair<5
